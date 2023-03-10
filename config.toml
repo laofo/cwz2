@@ -1,0 +1,37 @@
+baseURL =  "https://chuanwazi.com/"
+languageCode = "en-us"
+title =  "四川美食-川娃子"
+theme =  "hugo-cards"
+#themesDir = "../.."
+paginate = 6
+
+[params]
+  builtBy = "川娃子"
+  defaultImage = "../img/001-mapodoufu.png"
+
+  facebook = ""
+  quora = ""
+  twitter = ""
+  github = "https://chuanwazi.com"
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  disqus = ""
+  
+  custom_css = ["css/custom.css"]
+
+  favicon = "../img/hotpot.ico"
+
+
+[params.analytics]
+    type="UA"
+    trackingID = ""
+
+[params.copyright]
+     name = "四川美食-川娃子"
+     link = "https://chuanwazi.com"
+
